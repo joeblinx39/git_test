@@ -1,1 +1,2 @@
 Hello world, I am a student of The Odin Project.
+This is a cli test on nano
